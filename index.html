@@ -106,20 +106,24 @@ text-decoration: underline;
 
 <script> 
 var jv_comments_config = {
-website_id: 286,
-is_open: 'false',
-position: 'right' };
+	"website_id": "286",
+	"position": "right",
+	"is_open": "false",
+	"theme": {
+		"mainColor": "#000000",
+		"textColor": "#ffffff"
+	}
+};
 
-    (function () {
-        var d = document, s = d.createElement("script");
-        s.src = "https://widget.jointcomments.com/e/embed.prod.js";
-        if (/MSIE|Trident/.test(window.navigator.userAgent)) {
-                s.src = "https://widget.jointcomments.com/e/embed.prodIE.js";
-        }
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-
+	(function () {
+		var d = document, s = d.createElement("script");
+		s.src = "https://widget.jointcomments.com/e/embed.prod.js";
+		if (/MSIE|Trident/.test(window.navigator.userAgent)) {
+				s.src = "https://widget.jointcomments.com/e/embed.prodIE.js";
+		}
+		(d.head || d.body).appendChild(s);
+	})();
+			</script>
 
 
 
