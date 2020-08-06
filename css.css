@@ -18,7 +18,7 @@ text-decoration: underline;
 }
 .navbar{
   border: 1px outset red;
-  background-color: 0,0,0;
+  background-color: 	red;
   text-align: left;
 }
 img {
@@ -31,6 +31,26 @@ p {
 .dontreactimg{
 	width: auto;
 	height: auto;
+}
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:  white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
 }
 }
 </style>
