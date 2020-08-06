@@ -28,5 +28,9 @@ img {
 p {
   width: auto;
   height: auto;
+.dontreactimg{
+	width: auto;
+	height: auto;
+}
 }
 </style>
