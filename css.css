@@ -17,6 +17,7 @@ h3 {
 text-decoration: underline;
 }
 .navbar{
+	opacity: 0.6;
   border: 1px outset red;
   background-color: 	red;
   text-align: left;
@@ -32,24 +33,7 @@ p {
 	width: auto;
 	height: auto;
 }
-a:link {
-  color: white;
-  text-decoration: none;
-}
-a:visited {
-  color: white;
-  text-decoration: none;
-}
-a:hover {
-  color:  white;
-  text-decoration: underline;
-}
-a:active {
-  color: white;
 
-  text-decoration: underline;
-
-}
 video {
 	center
 }
