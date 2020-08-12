@@ -16,6 +16,10 @@ img {
 h3 {
 text-decoration: underline;
 }
+h1 {
+text-decoration: underline;
+}
+
 .navbar{
 	opacity: 0.6;
   border: 1px outset red;
