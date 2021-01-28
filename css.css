@@ -41,5 +41,18 @@ p {
 video {
 	center
 }
+.div{
+	height: auto;
+	display: inline-block;
+	float: left;
+
+}
+.div1{
+	height: auto;
+	display: inline-block;
+	float: right;
+
+}
+
 }
 </style>
