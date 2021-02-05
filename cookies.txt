@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+neomilne.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-editor	DIBDBOAK
+neomilne.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
