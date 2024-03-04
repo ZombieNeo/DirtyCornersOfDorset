@@ -18,14 +18,16 @@ body{ background-color: black;
   width: 50%;
 }
 
-
+html{
+  font: 15px/1 "0xProto Nerd Font", monospace;
+}
 
 
 img {
   border: 5px solid #2b2b2a;
 }
 h3 {
-text-decoration: underline;
+
 
 }
 h1 {
@@ -85,8 +87,8 @@ figcaption {
   text-align: center;
   width: 15%;
   display: inline-grid;
-  font-weight: 202;
-  grid-template-columns: 1fr 1fr 1fr ;
+  font-weight: 22;
+  grid-template-columns: 1fr 1fr;
 
 }
 
@@ -98,5 +100,17 @@ figcaption {
   font-size: 30px;
   color: white;
   text-decoration: none;
+}
+
+
+.textbox {
+  background-color: red;
+  padding: 1rem;
+  width: 12px;
+  text-decoration: none;
+  width: 15%;
+  font-weight: 22;
+  grid-template-columns: 1fr 1fr;
+
 }
 </style>
