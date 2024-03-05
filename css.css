@@ -1,7 +1,8 @@
 body,td,th {
 	color: #FFF;
 }
-body{ background-color: black;
+body{ 
+    background-color: black;
       padding: 5px;
 }
 .center {
@@ -113,4 +114,6 @@ figcaption {
   grid-template-columns: 1fr 1fr;
 
 }
+
+
 </style>
